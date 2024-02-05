@@ -1,0 +1,15 @@
+h1 { 
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: center;
+    color: white; 
+}
+body {
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellowgreen;
+}
+canvas { 
+    border:none;
+    box-shadow:1px 0px 10px #000032ce;
+    background-color: red;
+}
